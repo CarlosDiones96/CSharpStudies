@@ -1,0 +1,10 @@
+:root{
+    --primary-color: #ED008C;
+    --footer-color:#605751;
+    --background-color: #fff;
+    font-family: sans-serif;
+}
+
+.strong-color{
+    color: var(--primary-color);
+}

@@ -1,0 +1,10 @@
+.logo{
+    content: url(../images/iti-logo.svg);
+}
+
+.presentation-container{
+    background-color: var(--primary-color);
+}
+.smartphone-img{
+    content: url(../images/cartao-iti-smartphone.png);
+}
