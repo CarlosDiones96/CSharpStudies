@@ -1,0 +1,15 @@
+C:\Projetos\CSharpStudies\QueryOperationExample\bin\Debug\net7.0\QueryOperationExample.exe
+C:\Projetos\CSharpStudies\QueryOperationExample\bin\Debug\net7.0\QueryOperationExample.deps.json
+C:\Projetos\CSharpStudies\QueryOperationExample\bin\Debug\net7.0\QueryOperationExample.runtimeconfig.json
+C:\Projetos\CSharpStudies\QueryOperationExample\bin\Debug\net7.0\QueryOperationExample.dll
+C:\Projetos\CSharpStudies\QueryOperationExample\bin\Debug\net7.0\QueryOperationExample.pdb
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.csproj.AssemblyReference.cache
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.AssemblyInfoInputs.cache
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.AssemblyInfo.cs
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.dll
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\refint\QueryOperationExample.dll
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.pdb
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\QueryOperationExample.genruntimeconfig.cache
+C:\Projetos\CSharpStudies\QueryOperationExample\obj\Debug\net7.0\ref\QueryOperationExample.dll
