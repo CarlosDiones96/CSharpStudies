@@ -1,0 +1,15 @@
+C:\Projetos\CSharpStudies\IntroToLinq\bin\Debug\net7.0\IntroToLinq.exe
+C:\Projetos\CSharpStudies\IntroToLinq\bin\Debug\net7.0\IntroToLinq.deps.json
+C:\Projetos\CSharpStudies\IntroToLinq\bin\Debug\net7.0\IntroToLinq.runtimeconfig.json
+C:\Projetos\CSharpStudies\IntroToLinq\bin\Debug\net7.0\IntroToLinq.dll
+C:\Projetos\CSharpStudies\IntroToLinq\bin\Debug\net7.0\IntroToLinq.pdb
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.csproj.AssemblyReference.cache
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.AssemblyInfoInputs.cache
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.AssemblyInfo.cs
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.dll
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\refint\IntroToLinq.dll
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.pdb
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\IntroToLinq.genruntimeconfig.cache
+C:\Projetos\CSharpStudies\IntroToLinq\obj\Debug\net7.0\ref\IntroToLinq.dll
